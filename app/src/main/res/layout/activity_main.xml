@@ -63,11 +63,7 @@
         android:id="@+id/txtCamnang"
         android:layout_width="100sp"
         android:layout_height="50sp"
-<<<<<<< HEAD
         android:layout_marginBottom="16dp"
-=======
-        android:layout_marginBottom="32dp"
->>>>>>> 1c943fbb8d8660be3b00d759c55fd2309618192a
         android:text="Cẩm nang y học"
         android:textAlignment="center"
         android:textStyle="bold"
@@ -81,11 +77,7 @@
         android:id="@+id/txtMonan"
         android:layout_width="100sp"
         android:layout_height="50sp"
-<<<<<<< HEAD
         android:layout_marginBottom="16dp"
-=======
-        android:layout_marginBottom="32dp"
->>>>>>> 1c943fbb8d8660be3b00d759c55fd2309618192a
         android:text="Món ăn ngon"
         android:textAlignment="center"
         android:textStyle="bold"
@@ -97,11 +89,7 @@
     <TextView
         android:id="@+id/txtYoga"
         android:layout_width="100sp"
-<<<<<<< HEAD
         android:layout_height="50sp"
-=======
-        android:layout_height="50dp"
->>>>>>> 1c943fbb8d8660be3b00d759c55fd2309618192a
         android:layout_marginBottom="32dp"
         android:text="Yoga"
         android:textAlignment="center"
