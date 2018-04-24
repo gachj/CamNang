@@ -27,6 +27,27 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(intent);
             }
         });
+        imgYoga.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                intent = new Intent(MainActivity.this,Yoga.class);
+                startActivity(intent);
+            }
+        });
+        imgMonan.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                intent = new Intent(MainActivity.this,MonanActivity.class);
+                startActivity(intent);
+            }
+        });
+        imgThongtin.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                intent = new Intent(MainActivity.this,ThongtinActivity.class);
+                startActivity(intent);
+            }
+        });
     }
 
     private void AddControl() {
