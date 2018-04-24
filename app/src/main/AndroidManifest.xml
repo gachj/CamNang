@@ -17,7 +17,7 @@
             </intent-filter>
         </activity>
         <activity android:name=".CamnangActivity" />
-        <activity android:name=".Yoga" />
+        <activity android:name=".YogaActivity" />
         <activity android:name=".MonanActivity" />
         <activity android:name=".ThongtinActivity"></activity>
     </application>

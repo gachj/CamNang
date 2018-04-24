@@ -67,10 +67,10 @@ activity#code.camnang.camnang.CamnangActivity
 ADDED from C:\Users\donta\Downloads\CamNang\app\src\main\AndroidManifest.xml:19:9-53
 	android:name
 		ADDED from C:\Users\donta\Downloads\CamNang\app\src\main\AndroidManifest.xml:19:19-50
-activity#code.camnang.camnang.Yoga
-ADDED from C:\Users\donta\Downloads\CamNang\app\src\main\AndroidManifest.xml:20:9-42
+activity#code.camnang.camnang.YogaActivity
+ADDED from C:\Users\donta\Downloads\CamNang\app\src\main\AndroidManifest.xml:20:9-50
 	android:name
-		ADDED from C:\Users\donta\Downloads\CamNang\app\src\main\AndroidManifest.xml:20:19-39
+		ADDED from C:\Users\donta\Downloads\CamNang\app\src\main\AndroidManifest.xml:20:19-47
 activity#code.camnang.camnang.MonanActivity
 ADDED from C:\Users\donta\Downloads\CamNang\app\src\main\AndroidManifest.xml:21:9-51
 	android:name
