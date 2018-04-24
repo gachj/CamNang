@@ -23,7 +23,11 @@
         android:layout_marginEnd="8dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="8dp"
-        android:text="TextView"
+        android:text="YOGA"
+        android:textAlignment="center"
+        android:gravity="center"
+        android:textSize="30dp"
+        android:textColor="#f11"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toEndOf="@+id/imgYoga"
         app:layout_constraintTop_toTopOf="parent" />
