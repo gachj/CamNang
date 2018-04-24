@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
         imgYoga.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                intent = new Intent(MainActivity.this,Yoga.class);
+                intent = new Intent(MainActivity.this,YogaActivity.class);
                 startActivity(intent);
             }
         });
