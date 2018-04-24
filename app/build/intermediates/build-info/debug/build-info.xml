@@ -5,31 +5,25 @@
     build-mode="COLD"
     density="420dpi"
     format="10"
-    ir-eligibility="R_CLASS_CHANGE"
+    ir-eligibility="COMPATIBLE"
     plugin-version="3.1.2"
-    timestamp="1524552077289"
+    timestamp="1524553600438"
     token="6513706563516461325"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="1509" />
+        duration="2168" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="48" />
+        duration="84" />
     <task
         name="verifier"
-        duration="77" />
+        duration="54" />
 
-    <artifact
-        location="C:\Users\donta\Downloads\CamNang\app\build\intermediates\resources\instant-run\debug\resources-debug.apk"
-        type="SPLIT" />
-    <artifact
-        location="C:\Users\donta\Downloads\CamNang\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
-        type="SPLIT" />
     <artifact
         location="C:\Users\donta\Downloads\CamNang\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
         type="SPLIT" />
@@ -108,6 +102,12 @@
         <artifact
             location="C:\Users\donta\Downloads\CamNang\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
             type="SPLIT" />
+    </build>
+    <build
+        build-mode="COLD"
+        ir-eligibility="COMPATIBLE"
+        timestamp="1524553600438"
+        verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="C:\Users\donta\Downloads\CamNang\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
             type="SPLIT" />
